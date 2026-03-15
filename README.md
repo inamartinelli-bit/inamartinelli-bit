@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Olá, eu sou a Inês Martinelli!
+# Eu sou a Inês Martinelli!
 - Estudante de Desenvolvimento de Sistemas
 - Focada em Python, HTML e CSS
   <div style="display: inline_block"><br>
