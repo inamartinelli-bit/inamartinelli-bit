@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Eu sou a Inês Martinelli!
 - Estudante de Desenvolvimento de Sistemas
-- Focada em Python, HTML e CSS
+- Focada em 
   <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
