@@ -14,7 +14,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Csharp" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
-- Preparando-se para o mercado de tecnologia
+
+- Preparando-me para o mercado de tecnologia
 - ## Como me encontrar
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
