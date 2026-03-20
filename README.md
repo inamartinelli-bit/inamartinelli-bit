@@ -26,5 +26,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 ##
 <div>  
    <a href="https://beacons.ai/inamartinelli-bit">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inamartinelli-bit&show_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamartinelli-bit&layout=compact&langs_count=16&theme=dracula"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=inamartinelli-bit&show_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamartinelli-bit&layout=compact&langs_count=16&theme=dracula"/>
