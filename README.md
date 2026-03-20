@@ -18,6 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 ### 📚 I'm looking for help with GitHub Docs
 ### 🏁 Starting in the technology environment
 ### 📬 How to reach me 
+##
 <div>  
    <a href="https://beacons.ai/inamartinelli-bit">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inamartinelli-bit&show_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
