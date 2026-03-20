@@ -18,6 +18,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 ### 📚 I'm looking for help with GitHub Docs
 ### 🏁 Starting in the technology environment
 ### 📬 How to reach me 
+<a href= "https://www.linkedin.com/in/inamartinelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 ##
 <div>  
    <a href="https://beacons.ai/inamartinelli-bit">
