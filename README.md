@@ -5,7 +5,7 @@
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamartinelli-bit&layout=compact&langs_count=16&theme=radical"/>
 </div> 
 
-#### 👩‍💻 I'm student of Systems Development!
+#### 👩‍💻 I'm learning Systems Development
 #### 💻 I'm currently learning Programming Logic 
 #### 🚀 My learning goal
 <div 
