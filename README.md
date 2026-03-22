@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Inês Martinelli!
+# 👋 Hey, what's up? I'm Inês Martinelli!
 <div>
    <a href="https://github.com/inamartinelli-bit">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=inamartinelli-bit&show_icons=true&theme=radical&include_all_commits=true&cout_private=true"/>
