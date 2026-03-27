@@ -1,9 +1,7 @@
 # 👋 Hey, what's up? I'm Inês Martinelli!
+
 <div>
-   <a href="https://github.com/inamartinelli-bit">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=inamartinelli-bit&show_icons=true&theme=radical&include_all_commits=true&cout_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamartinelli-bit&layout=compact&langs_count=16&theme=radical"/>
-</div> 
+<a href="https://github.com/inamartinelli-bit"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=inamartinelli-bit&show_icons=true&theme=radical&include_all_commits=true&cout_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamartinelli-bit&layout=compact&langs_count=16&theme=radical"/></div> 
 
 #### 👩‍💻 I'm learning Systems Development
 #### 💻 I'm currently learning Programming Logic 
