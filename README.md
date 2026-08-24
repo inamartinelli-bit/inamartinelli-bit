@@ -23,8 +23,12 @@
 #### 🏁 Starting in the technology environment
 #### 📬 How to reach me 
 <a href= "https://www.linkedin.com/in/inamartinelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href= "malito:inamartinelli.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href= "https://www.kaggle.com/inesmartinelli" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+<a href= "malito:inamartinelli.dev@gmail.com" target="_blank"><img 
+src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+target="_blank"></a>
+<a href= "https://www.kaggle.com/inesmartinelli" target="_blank"><img 
+src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" 
+target="_blank"></a>
 <a href= "malito:inesmartinelli@tutamail.com"><img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" target="_blank"></a>
 
 
