@@ -29,6 +29,7 @@ target="_blank"></a>
 <a href= "https://www.kaggle.com/inesmartinelli" target="_blank"><img 
 src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" 
 target="_blank"></a>
-<a href= "malito:inesmartinelli@tutamail.com"><img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" target="_blank"></a>
+<a href= "mailto:inesmartinelli@tutamail.com" target="_blank"><img 
+src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" target="_blank"></a>
 
 
