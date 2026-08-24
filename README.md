@@ -2,8 +2,8 @@
 
 <div>
    <a href= "https://github.com/inamartinelli-bit">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inamartinelli-bit&show_icons=true&theme=radical&include_all_commits=true&cout_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamartinelli-bit&layout=compact&langs_count=16&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inamartinelli-bit&show_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamartinelli-bit&layout=compact&langs_count=16&theme=dracula"/>
 </div> 
 
 #### 👩‍💻 I'm learning Systems Development
