@@ -5,7 +5,7 @@
 
 #### 👩‍💻 I'm learning Systems Development
 #### 💻 I'm currently learning Programming Logic 
-#### 🚀 My learning goal
+#### 🚀 My learning goal 
 <div 
    style="display: inline_block"><br><img align="center" alt="Python" height="40" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -18,7 +18,6 @@
    <img align="center" alt="Csharp" height="40" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>		
-
 #### 📚 I'm looking for help with GitHub Docs
 #### 🏁 Starting in the technology environment
 #### 📬 How to reach me 
